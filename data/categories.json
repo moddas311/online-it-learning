@@ -1,0 +1,49 @@
+[
+    {
+        "id": "1",
+        "name": "HTML5",
+        "img": "https://i.ibb.co/Bq1pLpX/152843.png",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at HTML5",
+        "feature": "HTML5",
+        "price": "20$"
+    },
+    {
+        "id": "2",
+        "name": "CSS#",
+        "img": "https://i.ibb.co/RN6B4qW/CSS3.jpg",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at CSS3",
+        "feature": "CSS3",
+        "price": "23$"
+    },
+    {
+        "id": "3",
+        "name": "BOOTSTRAP",
+        "img": "https://i.ibb.co/S72p4XS/bootstrap-tutorial.png",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at BOOTSTRAP",
+        "feature": "BOOTSTRAP",
+        "price": "21$"
+    },
+    {
+        "id": "4",
+        "name": "JavaScript",
+        "img": "https://i.ibb.co/fnSLhQn/javascript-logo-0.png",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at JavaScript",
+        "feature": "JavaScript",
+        "price": "27$"
+    },
+    {
+        "id": "5",
+        "name": "React",
+        "img": "https://i.ibb.co/hK6BqnT/pdib9r9rk5j1m7oala1p.webp",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at React",
+        "feature": "React",
+        "price": "29$"
+    },
+    {
+        "id": "6",
+        "name": "Firebase",
+        "description": "This is the online IT learning platform we will teaching you! how you can good at Firebase",
+        "feature": "Firebase",
+        "price": "17$"
+    }
+]
